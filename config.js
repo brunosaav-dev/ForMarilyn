@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "SHE SAID YESSSSS!!!!💖",
-        message: "Now you have to wait for your suprise but for now a big KISS MUA!",
+        message: "Now you have to wait for your surprise, but for now a big KISS MUA!",
         emojis: "💋❤️"  // These will bounce around
     },
 
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dulxvnj6e/video/upload/v1769635591/Blessed_rpvecs.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dulxvnj6e/video/upload/Blessed_rpvecs.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
